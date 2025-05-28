@@ -1,13 +1,14 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a  diferença da liguagem de progamação compiladas e intrepetadas?',
+    'A principal diferença reside em como o código-fonte é transformado em algo que a máquina pode executar.'
+
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a maior cadeia de montanhas do mundo ?',
+    'A maior cadeia de montanhas do mundo é o Himalaia, na Ásia.'
 )
 
 criaCartao(
@@ -18,6 +19,7 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz "obrigado" em inglês?',
+    'Para dizer "obrigado" em inglês, você pode usar "Thank you" ou, de forma mais casual, "Thanks"'
+    
 )
